@@ -6,8 +6,6 @@
 The code given was the GameExperience.py and TreasureMaze.yp files. In the treasure map file, I was given the environment, experience for replay, the build of the model, and playing the game. The goal was to create code for the Q-Training Algorithm.
 The code I created was the pseudocode to tell the "pirate" how to learn the environment and find the treasure the fastest way possible. The possibility of movement needed to be random and reset. The episodes needed to continue to flow to the next one if the system was unsucessful. These steps were all put in a loop to describe what happens when the system wins and loses.
 
-*Connect your learning from throughout this course to the larger field of computer science:*
-
 #### What do computer scientists do and why does it matter?
 Computer scientists create, develop, and analyze code for the given program. It matters because of what can and cannot be accomplished. This can be was is intended or what is not intended. Computer scientists can affect programs that may be used for every day life or in larger platforms, such as the government.
 
